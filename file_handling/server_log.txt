@@ -1,0 +1,6 @@
+INFO: Server started
+ERROR: Database connection failed
+INFO: Request received
+WARNING: Memory usage high
+ERROR: Timeout occurred
+INFO: Server stopped
